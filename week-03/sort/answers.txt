@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: by checking worst case and best case becasue this sorting algorithm takes more time then other two in worst case but in best case this algorithm take less time than sort3 algorithm.
+
+sort2 uses: Merge Sort
+
+How do you know?: because the time taken by this sorting algorithm is always lesser than the other two algorithms.
+
+sort3 uses: Selection Sort
+
+How do you know?: because in sorted array bubble sort takes less time than selection sort.
